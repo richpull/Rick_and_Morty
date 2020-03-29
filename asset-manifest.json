@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/rm/static/js/main.d959692d.chunk.js",
-    "main.js.map": "/rm/static/js/main.d959692d.chunk.js.map",
-    "runtime-main.js": "/rm/static/js/runtime-main.ab7e2b09.js",
-    "runtime-main.js.map": "/rm/static/js/runtime-main.ab7e2b09.js.map",
-    "static/css/2.33388cb5.chunk.css": "/rm/static/css/2.33388cb5.chunk.css",
-    "static/js/2.02695dd6.chunk.js": "/rm/static/js/2.02695dd6.chunk.js",
-    "static/js/2.02695dd6.chunk.js.map": "/rm/static/js/2.02695dd6.chunk.js.map",
-    "index.html": "/rm/index.html",
-    "precache-manifest.6cc067bb2270250bef6882dd0f6d591a.js": "/rm/precache-manifest.6cc067bb2270250bef6882dd0f6d591a.js",
-    "service-worker.js": "/rm/service-worker.js",
-    "static/css/2.33388cb5.chunk.css.map": "/rm/static/css/2.33388cb5.chunk.css.map",
-    "static/js/2.02695dd6.chunk.js.LICENSE.txt": "/rm/static/js/2.02695dd6.chunk.js.LICENSE.txt",
-    "static/media/solid.min.css": "/rm/static/media/fa-solid-900.ec763292.svg"
+    "main.js": "/Rick_and_Morty/static/js/main.3c52bdc4.chunk.js",
+    "main.js.map": "/Rick_and_Morty/static/js/main.3c52bdc4.chunk.js.map",
+    "runtime-main.js": "/Rick_and_Morty/static/js/runtime-main.f4ed8d3f.js",
+    "runtime-main.js.map": "/Rick_and_Morty/static/js/runtime-main.f4ed8d3f.js.map",
+    "static/css/2.2fbdebf6.chunk.css": "/Rick_and_Morty/static/css/2.2fbdebf6.chunk.css",
+    "static/js/2.e9b2f5ac.chunk.js": "/Rick_and_Morty/static/js/2.e9b2f5ac.chunk.js",
+    "static/js/2.e9b2f5ac.chunk.js.map": "/Rick_and_Morty/static/js/2.e9b2f5ac.chunk.js.map",
+    "index.html": "/Rick_and_Morty/index.html",
+    "precache-manifest.914c697f7b6ca39f44d0c5768c3c4123.js": "/Rick_and_Morty/precache-manifest.914c697f7b6ca39f44d0c5768c3c4123.js",
+    "service-worker.js": "/Rick_and_Morty/service-worker.js",
+    "static/css/2.2fbdebf6.chunk.css.map": "/Rick_and_Morty/static/css/2.2fbdebf6.chunk.css.map",
+    "static/js/2.e9b2f5ac.chunk.js.LICENSE.txt": "/Rick_and_Morty/static/js/2.e9b2f5ac.chunk.js.LICENSE.txt",
+    "static/media/solid.min.css": "/Rick_and_Morty/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab7e2b09.js",
-    "static/css/2.33388cb5.chunk.css",
-    "static/js/2.02695dd6.chunk.js",
-    "static/js/main.d959692d.chunk.js"
+    "static/js/runtime-main.f4ed8d3f.js",
+    "static/css/2.2fbdebf6.chunk.css",
+    "static/js/2.e9b2f5ac.chunk.js",
+    "static/js/main.3c52bdc4.chunk.js"
   ]
 }
