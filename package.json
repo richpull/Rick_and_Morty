@@ -37,6 +37,7 @@
     "deploy": "gh-pages -d build",
     "format:prettier": "prettier --write {src/**/*,*}.{js,jsx,ts,tsx}"
   },
+  "homepage": "http://richpull.github.io/rm",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
